@@ -30,6 +30,7 @@ RUN docker-php-ext-install \
   bcmath \
 #  mbstring \ #already loaded
   opcache \
+  mysqli \
   pdo_mysql \
   soap \
   zip \
