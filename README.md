@@ -1,1 +1,1 @@
-# docker-php-fpm-magento2
+# docker-php-fpm-magento
